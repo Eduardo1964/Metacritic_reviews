@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc2440d8-0f5f-47bc-aa34-29b4a9278cd3" name="Changes" comment="early data manipulation">
+      <change afterPath="$PROJECT_DIR$/.idea/VideogameScores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page100.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page102.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page103.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page104.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page105.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page106.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page107.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page108.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page109.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page110.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page111.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page112.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page113.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page114.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page115.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page116.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page117.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page118.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page119.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page120.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page121.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page122.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page123.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page124.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page125.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page126.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page127.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page128.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page129.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page130.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page131.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page132.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page133.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page134.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page135.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page136.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page137.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page138.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page139.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page140.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page141.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page142.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page42.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page43.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page45.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page47.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page48.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page49.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page51.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page52.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page53.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page54.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page55.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page59.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page60.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page62.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page63.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page64.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page65.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page66.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page67.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page68.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page69.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page70.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page71.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page72.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page73.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page74.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page75.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page77.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page78.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page79.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page80.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page81.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page82.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page83.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page84.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page85.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page86.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page88.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page89.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page90.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page92.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page93.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page94.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page95.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page96.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page97.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page98.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/games_data-page99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metacritic_scores/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/metacritic_scores/tools.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/metacritic_scores" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sEUAqHgotYx3MEU1hBR4WKdama" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.review_scrapping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scrapper.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;py__scripts&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VideogameScores" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/metacritic_scores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metacritic_scores/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="review_scrapping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VideogameScores" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/metacritic_scores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metacritic_scores/review_scrapping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.review_scrapping" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc2440d8-0f5f-47bc-aa34-29b4a9278cd3" name="Changes" comment="" />
+      <created>1738020087268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738020087268</updated>
+    </task>
+    <task id="LOCAL-00001" summary="dataframe from collected data">
+      <option name="closed" value="true" />
+      <created>1738901727931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738901727931</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added Selenium to retrieve more reviews">
+      <option name="closed" value="true" />
+      <created>1738903603631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738903603631</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added Selenium to retrieve more reviews">
+      <option name="closed" value="true" />
+      <created>1739059844994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739059844994</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added ps4 games list">
+      <option name="closed" value="true" />
+      <created>1739204770443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739204770443</updated>
+    </task>
+    <task id="LOCAL-00005" summary="early data manipulation">
+      <option name="closed" value="true" />
+      <created>1739242360614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739242360614</updated>
+    </task>
+    <task id="LOCAL-00006" summary="early data manipulation">
+      <option name="closed" value="true" />
+      <created>1739331520881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739331520881</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dataframe from collected data" />
+    <MESSAGE value="added Selenium to retrieve more reviews" />
+    <MESSAGE value="added ps4 games list" />
+    <MESSAGE value="early data manipulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="early data manipulation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/metacritic_scores/scrapper.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/metacritic_scores/scrapper.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/metacritic_scores/main.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/metacritic_scores/tools.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/metacritic_scores/main.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
